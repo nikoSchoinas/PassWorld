@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PassWorld</string>
+    <string name="set_change_password">Set Password</string>
+    <string name="ok_option">OK</string>
+    <string name="password">Password</string>
+    <string name="site_name">Site Name</string>
+    <string name="editor_insert_password_failed">Password insertion failed</string>
+    <string name="editor_insert_password_successful">Password insertion succeed</string>
+    <string name="editor_update_password_failed">Password update failed</string>
+    <string name="editor_update_password_successful">Password update succeed</string>
+    <string name="action_save">Save Password</string>
+    <string name="action_delete">Delete Password</string>
+    <string name="delete_dialog_msg">Are you sure that you want to delete this password?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_delete_pet_failed">Failed to delete the password</string>
+    <string name="editor_delete_pet_successful">Password deleted successfully</string>
+    <string name="unsaved_changes_dialog_msg">You have unsaved changes</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="set_password">Fill your password</string>
+    <string name="wrong_password">"Sorry, wrong password"</string>
+</resources>

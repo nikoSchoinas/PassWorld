@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/backround"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:hint="@string/password"
+        android:padding="16dp"
+        android:gravity="center"
+        android:background="@color/Light_blue"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/passfield" />
+
+    <Button
+        android:layout_width="70dp"
+        android:layout_height="50dp"
+        android:text="@string/ok_option"
+        android:textColor="@color/Light_blue"
+        android:layout_below="@id/passfield"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/okButton"
+        android:background="@color/Black" />
+
+    </RelativeLayout>
